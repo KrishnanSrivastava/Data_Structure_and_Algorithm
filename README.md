@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1143-longest-common-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
