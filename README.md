@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0239-sliding-window-maximum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0198-house-robber) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1143-longest-common-subsequence) |
@@ -99,4 +101,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0023-merge-k-sorted-lists) |
+## Depth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
