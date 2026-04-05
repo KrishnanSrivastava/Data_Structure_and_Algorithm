@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0516-longest-palindromic-subsequence) |
+| [0657-robot-return-to-origin](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0657-robot-return-to-origin) |
 | [1143-longest-common-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0657-robot-return-to-origin) |
 | [3477-fruits-into-baskets-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
