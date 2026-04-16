@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0014-longest-common-prefix) |
+| [0039-combination-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0039-combination-sum) |
 | [0052-n-queens-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0052-n-queens-ii) |
 ## Linked List
 |  |
