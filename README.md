@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0198-house-robber) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0044-wildcard-matching) |
 | [0242-valid-anagram](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0409-longest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0516-longest-palindromic-subsequence) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0409-longest-palindrome) |
 ## Queue
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
