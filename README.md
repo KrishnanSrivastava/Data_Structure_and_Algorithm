@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0055-jump-game) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0044-wildcard-matching) |
 | [0242-valid-anagram](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0242-valid-anagram) |
@@ -190,5 +192,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
