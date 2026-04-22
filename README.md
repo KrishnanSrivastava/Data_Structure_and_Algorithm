@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0239-sliding-window-maximum) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0300-longest-increasing-subsequence) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0064-minimum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0733-flood-fill) |
 ## Design
