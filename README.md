@@ -88,12 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 ## Greedy
 |  |
