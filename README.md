@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0056-merge-intervals) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0062-unique-paths) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0409-longest-palindrome) |
 ## Queue
