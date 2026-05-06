@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0307-range-sum-query-mutable) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [3477-fruits-into-baskets-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3477-fruits-into-baskets-ii) |
 ## Simulation
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0044-wildcard-matching) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
