@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0190-reverse-bits) |
 | [0307-range-sum-query-mutable](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0307-range-sum-query-mutable) |
 ## Merge Sort
 |  |
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
