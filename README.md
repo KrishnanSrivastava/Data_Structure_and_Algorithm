@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0062-unique-paths) |
 | [2119-a-number-after-a-double-reversal](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2119-a-number-after-a-double-reversal) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0190-reverse-bits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
