@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -230,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
