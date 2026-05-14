@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2553-separate-the-digits-in-an-array](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2784-check-if-array-is-good) |
 | [3477-fruits-into-baskets-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -37,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0409-longest-palindrome) |
+| [2784-check-if-array-is-good](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2784-check-if-array-is-good) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0242-valid-anagram) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2784-check-if-array-is-good](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
 | ------- |
