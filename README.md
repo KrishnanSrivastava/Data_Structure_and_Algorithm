@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0239-sliding-window-maximum) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [3477-fruits-into-baskets-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3477-fruits-into-baskets-ii) |
