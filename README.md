@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0045-jump-game-ii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0209-minimum-size-subarray-sum) |
