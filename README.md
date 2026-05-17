@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0733-flood-fill](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0733-flood-fill) |
+| [1306-jump-game-iii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1306-jump-game-iii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2553-separate-the-digits-in-an-array](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
@@ -165,11 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0733-flood-fill) |
+| [1306-jump-game-iii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0733-flood-fill) |
+| [1306-jump-game-iii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1306-jump-game-iii) |
 ## Graph Theory
 |  |
 | ------- |
