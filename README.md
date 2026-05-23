@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1306-jump-game-iii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2540-minimum-common-value](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
