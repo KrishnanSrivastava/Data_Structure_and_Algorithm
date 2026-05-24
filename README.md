@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1340-jump-game-v) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0242-valid-anagram) |
+| [1340-jump-game-v](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1340-jump-game-v) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2784-check-if-array-is-good](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2784-check-if-array-is-good) |
 ## Math
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1143-longest-common-subsequence) |
+| [1340-jump-game-v](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1340-jump-game-v) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Combinatorics
 |  |
