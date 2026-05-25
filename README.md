@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1143-longest-common-subsequence) |
 | [1340-jump-game-v](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Combinatorics
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0657-robot-return-to-origin) |
 | [1143-longest-common-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1143-longest-common-subsequence) |
+| [1871-jump-game-vii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1871-jump-game-vii) |
 ## Backtracking
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0239-sliding-window-maximum) |
+| [1871-jump-game-vii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1871-jump-game-vii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [1871-jump-game-vii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1871-jump-game-vii) |
 ## Bit Manipulation
 |  |
 | ------- |
