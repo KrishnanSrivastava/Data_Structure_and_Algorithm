@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1143-longest-common-subsequence) |
 | [1871-jump-game-vii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1871-jump-game-vii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Backtracking
 |  |
 | ------- |
