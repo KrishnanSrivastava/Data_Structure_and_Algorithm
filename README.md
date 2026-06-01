@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2126-destroying-asteroids](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1340-jump-game-v) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2126-destroying-asteroids](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0409-longest-palindrome) |
 | [2126-destroying-asteroids](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Queue
 |  |
 | ------- |
