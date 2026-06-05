@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0516-longest-palindromic-subsequence) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1143-longest-common-subsequence) |
 | [1340-jump-game-v](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1871-jump-game-vii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0239-sliding-window-maximum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1306-jump-game-iii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
@@ -203,12 +206,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1306-jump-game-iii) |
 ## Graph Theory
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -293,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0200-number-of-islands) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
