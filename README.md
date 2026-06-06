@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2784-check-if-array-is-good) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [1871-jump-game-vii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1871-jump-game-vii) |
+| [2574-left-and-right-sum-differences](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2574-left-and-right-sum-differences) |
 ## Bit Manipulation
 |  |
 | ------- |
