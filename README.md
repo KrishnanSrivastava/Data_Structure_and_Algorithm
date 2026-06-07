@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0198-house-robber) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0322-coin-change) |
