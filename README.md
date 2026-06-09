@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3477-fruits-into-baskets-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3477-fruits-into-baskets-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0455-assign-cookies) |
 | [2126-destroying-asteroids](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3689-maximum-total-subarray-value-i](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3689-maximum-total-subarray-value-i) |
 ## Queue
 |  |
 | ------- |
