@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0403-frog-jump](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0455-assign-cookies) |
 | [0733-flood-fill](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1306-jump-game-iii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0455-assign-cookies) |
 | [1340-jump-game-v](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1340-jump-game-v) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2126-destroying-asteroids](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2126-destroying-asteroids) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
+| [0455-assign-cookies](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0455-assign-cookies) |
 | [2540-minimum-common-value](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0455-assign-cookies) |
 | [2126-destroying-asteroids](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Queue
