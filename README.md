@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0045-jump-game-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0242-valid-anagram) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0039-combination-sum) |
 | [0052-n-queens-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0052-n-queens-ii) |
 ## Linked List
@@ -314,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
