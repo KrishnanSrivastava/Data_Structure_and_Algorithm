@@ -321,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0022-generate-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
