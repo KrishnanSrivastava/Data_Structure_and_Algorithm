@@ -328,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [1693-daily-leads-and-partners](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
