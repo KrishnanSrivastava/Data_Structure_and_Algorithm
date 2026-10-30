@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0657-robot-return-to-origin) |
 | [1143-longest-common-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1143-longest-common-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1768-merge-strings-alternately) |
 | [1871-jump-game-vii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1871-jump-game-vii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0455-assign-cookies) |
+| [1768-merge-strings-alternately](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2540-minimum-common-value) |
 ## Greedy
