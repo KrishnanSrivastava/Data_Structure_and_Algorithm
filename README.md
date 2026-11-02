@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0409-longest-palindrome) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0455-assign-cookies) |
