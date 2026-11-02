@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0409-longest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0657-robot-return-to-origin) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0455-assign-cookies) |
 | [1768-merge-strings-alternately](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
