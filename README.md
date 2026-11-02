@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0605-can-place-flowers](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0994-rotting-oranges) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1340-jump-game-v](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1340-jump-game-v) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2126-destroying-asteroids](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2126-destroying-asteroids) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0062-unique-paths) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2119-a-number-after-a-double-reversal](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/2119-a-number-after-a-double-reversal) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
