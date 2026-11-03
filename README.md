@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3477-fruits-into-baskets-ii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3477-fruits-into-baskets-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3689-maximum-total-subarray-value-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/KrishnanSrivastava/Data_Structure_and_Algorithm/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
